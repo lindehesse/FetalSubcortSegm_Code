@@ -1,0 +1,14 @@
+{
+    "test": [
+        "vol6.mha"
+    ],
+    "train": [
+        "vol1.mha",
+        "vol2.mha",
+        "vol3.mha"
+    ],
+    "validation": [
+        "vol4.mha",
+        "vol5.mha"
+    ]
+}

@@ -1,0 +1,6 @@
+{"mode": "train",
+"val_batchsize":1,
+"num_runs":3,
+"n_epochs":2,
+"preload_data":false
+}
