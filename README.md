@@ -1,4 +1,4 @@
-# Subcortical Segmentation of the Fetal Brain from 3D Ultrasound
+# Subcortical Segmentation of the Fetal Brain in 3D Ultrasound using Deep Learning
 
 This code contains the PyTorch training code for performing multi-label segmentation with a 3D U-Net. It was written to perform subcortical segmentation in the fetal brain from 3D Ultrasound but can be used for other multi-label segmentation tasks.
 ## Usage
